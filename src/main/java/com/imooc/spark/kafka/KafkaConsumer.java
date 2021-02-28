@@ -10,6 +10,10 @@ import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Properties;
 
+/**
+ * This is a KafkaConsumer
+ */
+
 public class KafkaConsumer extends Thread{
 
        private String topic;
